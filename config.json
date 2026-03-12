@@ -1,0 +1,24 @@
+{
+  "camera": {
+    "device_index": 0,
+    "frame_width": 640,
+    "frame_height": 480,
+    "fps": 30
+  },
+  "sensitivity": {
+    "x": 1.8,
+    "y": 1.5
+  },
+  "thresholds": {
+    "move": 0.05,
+    "click": 0.06
+  },
+  "dead_zone_ratio": 0.1,
+  "click_cooldown_seconds": 0.5,
+  "smoothing": 3,
+  "optimization": {
+    "minimize_optimization_default": true,
+    "background_mode_default": false
+  }
+}
+
