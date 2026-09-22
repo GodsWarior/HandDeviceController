@@ -1,3 +1,9 @@
+# SPDX-FileCopyrightText: 2026 GoodWin (GodsWarior)
+# SPDX-License-Identifier: MIT
+#
+# Этот файл является частью проекта HandDeviceController и распространяется
+# под лицензией MIT. Полный текст лицензии — в файле LICENSE.
+
 import json
 from dataclasses import dataclass
 from pathlib import Path
